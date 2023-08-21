@@ -5,11 +5,15 @@ All assignments have instructions within the .ipynb files
 
 Topics by Assignment:
 
-HW 2:
-HW 3:
-HW 4:
-HW 5:
-HW 6:
+HW 2: log-likelihood loss, logistic regression
+
+HW 3: gradient descent from scratch, momentum optimizer, Adam optimizer, SGD
+
+HW 4: backpropagation, MLP from scratch, sigmoid cross-entropy function, 
+
+HW 5: receptive field, CNNs, training CNN to classify CIFAR-10 dataset (AlexNet)
+
+HW 6: batch normalization, 
 HW 7:
 HW 8:
 HW 9:
