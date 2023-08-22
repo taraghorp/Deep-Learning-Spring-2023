@@ -23,4 +23,6 @@ HW 9: attention pooling to solve "addition problem" from LSTM paper to test RNN 
 
 HW 10: train sentiment classifier on SST-2 dataset using pre-trained BERT model and Hugging Face Transformers Library. First, fine-tuning DistilBert from scratch and bert-tiny from scratch. Second, inputting the BERT output into a linear classifier and training the classifier using sentence-transformers library
 
-HW 11: 
+HW 11: relative position embedding for each offset in t5-base model, queries, keys, values, comparison function, reduction function
+
+HW 12: GAN discriminator, generators, min-max optimization problem, alternating gradient descent
